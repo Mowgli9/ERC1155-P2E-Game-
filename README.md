@@ -1,3 +1,9 @@
+
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract, It was only for me to learn more about Solidity ` Who the f* wrote this smart contract 😆😆😆😆 `
+
+
+
+
 # Info  :
     1 : for educational purposes only
     2 : If you're a /solo / team / company I'm ready to work with you <3
